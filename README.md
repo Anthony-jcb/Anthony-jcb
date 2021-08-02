@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anthony-jcb
-- 👀 I’m interested in learning how to work in web and software development, to learn well, to teach well.
-- 🌱 I’m currently learning web development, my favorite lenguajes are CSS, JavaScript, Python.
-- 💞️ I’m not looking to colaborate.
+- 👀 I’m interested in to learn javascript and web development.
+- 🌱 I’m currently learning web development, my favorite lenguaje is javascript.
 - 📫 How to reach me. Gmail:thonyjbc@gmail.com
 
 <!---
